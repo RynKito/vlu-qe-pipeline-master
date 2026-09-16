@@ -5,7 +5,7 @@
 function login(username, password) {
   // Tài khoản hợp lệ giả lập
   const VALID_USERNAME = "admin";
-  const VALID_PASSWORD = "9999";
+  const VALID_PASSWORD = "123";
 
   // Danh sách tài khoản bị khóa (giả lập)
   const LOCKED_USERS = ["locked_user"];
