@@ -1,4 +1,5 @@
 // auth.js
+// updated login logic - feature branch test
 // Hàm login đơn giản dùng cho mục đích kiểm thử (QE Lab 01)
 
 function login(username, password) {
